@@ -48,3 +48,7 @@ landing-vidaplena/
 │   ├── vidaplena.png
 │   └── bienestar.png
 └── README.md
+
+## Estado del proyecto
+
+Proyecto finalizado para entrega académica.
