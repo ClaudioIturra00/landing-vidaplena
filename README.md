@@ -52,3 +52,5 @@ landing-vidaplena/
 ## Estado del proyecto
 
 Proyecto finalizado para entrega académica.
+
+El sitio fue desarrollado aplicando estructura HTML y estilos CSS vistos en clases.
