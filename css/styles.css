@@ -214,6 +214,10 @@ footer {
   margin-top: 50px;
 }
 
+.hero button:hover {
+  background-color: #145c38;
+}
+
 @media (max-width: 768px) {
   nav {
     flex-direction: column;
